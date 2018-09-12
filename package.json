@@ -10,6 +10,7 @@
         "poolserver",
         "bitcoin",
         "litecoin",
+        "yespower",
         "scrypt"
     ],
     "homepage": "https://github.com/chizou88/node-stratum-pool-lyra2re2",
